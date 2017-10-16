@@ -3,7 +3,7 @@ layout: post
 title: "Calculate balance factor when rotating AVL tree node"
 date: 2017-10-08 12:00:00
 categories: algorithms
-featured_image: /images/lewis.jpg
+featured_image: images/lewis.jpg
 ---
 
 In AVL tree, we keep track of the tree's balance using a balance factor number, updated with every insertion and deletion. This is an attempt to factorize the recalculation process inside during rotation, instead of insertion / deletion. Doing so would tidy up the code significantly.

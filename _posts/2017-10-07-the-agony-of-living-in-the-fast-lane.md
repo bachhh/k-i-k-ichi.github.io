@@ -3,7 +3,7 @@ layout: post
 title: "The agony of living in the fast lane"
 date: 2017-10-07 12:00:00
 categories: jekyll
-featured_image: /images/cover.jpg
+featured_image: images/cover.jpg
 ---
 
 Long before I’ve realized, I have took up reading, even though I used to be against it. I have thought about writting as I progress, but was never sure what to write about.

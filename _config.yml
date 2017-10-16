@@ -1,7 +1,7 @@
 # Site settings
 title: 'Bach Do' # Your Title
 tagline: 'A personal blog' # A brief tagline for your site
-sidebar_image: /images/lewis.jpg
+sidebar_image: images/lewis.jpg
 
 # Build settings
 markdown: kramdown
