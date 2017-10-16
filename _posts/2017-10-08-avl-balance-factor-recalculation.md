@@ -199,14 +199,14 @@ void rotateRight(avlTree* tree, avlNode* y){
       y->bfact = old_y_bfact + 1;
     }
     else {
-      y->bfact = old_y_bfact + old_x_bfact + 1;
+      y->bfact = old_y_bfact - old_x_bfact + 1;
     }
     // Calcuating new X bfact
     if(y->bfact <= 0){
       x->bfact = old_x_bfact + 1;
     }
     else{
-      x->bfact = y->bfact - old_x_bfact + 1;
+      x->bfact = y->bfact + old_x_bfact + 1;
     }
 
     y->left = x->right;
