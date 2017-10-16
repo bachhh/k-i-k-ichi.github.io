@@ -6,7 +6,7 @@ categories: jekyll
 featured_image: /images/cover.jpg
 ---
 
-Long before I’ve realized, I have taken up reading, even though I was hughly against it. I have thought about writting as I progress, but was never sure what to write about.
+Long before I’ve realized, I have taken up reading, even though I was against it for the majority of my life. I gave more thought to writting as I progress, but was never sure what to write about.
 
 ## Why ?
 
