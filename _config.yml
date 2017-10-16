@@ -5,8 +5,8 @@ sidebar_image: images/lewis.jpg
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-baseurl: #the subpath of your site, e.g. /blog/
+highlighter: roue
+
 plugins:
 - jekyll-paginate
 

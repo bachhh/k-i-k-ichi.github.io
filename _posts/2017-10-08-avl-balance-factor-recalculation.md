@@ -3,7 +3,7 @@ layout: post
 title: "Calculate balance factor when rotating AVL tree node"
 date: 2017-10-08 12:00:00
 categories: algorithms
-featured_image: images/lewis.jpg
+featured_image: /images/lewis.jpg
 ---
 
 In AVL tree, we keep track of the tree's balance using a balance factor number, updated with every insertion and deletion. This is an attempt to factorize the recalculation process inside during rotation, instead of insertion / deletion. Doing so would tidy up the code significantly.
@@ -45,11 +45,11 @@ When a node have a balance factor of 2 or -2, rotations can help rebalance the t
 
 What we have here is the general case of left rotation, keep in mind that A, B and G denote a subtree of any heigh ( including 0 in which case they will be NULL). While X and Y are a node
 
-![Before]({{ "/assets/avl.jpg" | absolute_url }})
+![Before]({{ "assets/avl.jpg" | relative_url }})
 
 After a left rotation, the balance factor changed for both X and Y, and we wish to carry out update on these value, without the overhead of recalculating the height of any subtree A, B or G ( since only the balance factor is stored inside a node, calculating the height of subtree require depth traversal)
 
-![After]({{ "/assets/avlleft.jpg" | absolute_url }})
+![After]({{ "assets/avlleft.jpg" | relative_url }})
 
 We use the below notation for our calculation
 
