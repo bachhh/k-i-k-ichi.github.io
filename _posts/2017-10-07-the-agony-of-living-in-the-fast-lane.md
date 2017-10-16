@@ -6,11 +6,11 @@ categories: jekyll
 featured_image: /images/cover.jpg
 ---
 
-Long before I’ve realized, I have took up reading, even though I used to be against it. I have thought about writting as I progress, but was never sure what to write about.
+Long before I’ve realized, I have taken up reading, even though I was hughly against it. I have thought about writting as I progress, but was never sure what to write about.
 
 ## Why ?
 
-Getting off the mount stupid, by becoming open to criticism.
+Getting off the mount stupid, be open to critics.
 
 ![My helpful screenshot]({{ "assets/mount_stupid.jpeg" | relative_url }})
 
