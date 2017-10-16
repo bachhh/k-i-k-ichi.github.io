@@ -43,7 +43,7 @@ struct avlNode {
 After insert any node, the balance factor of the new node's parent can either decrease or increase, the balance factor is update throughout the tree up until the root.
 When a node have a balance factor of 2 or -2, rotations can help rebalance the tree. You can get a much more detailed explaination [here][2]
 
-What we have here is the general case of left rotation, keep in mind that A, B and G denote a subtree of any heigh ( including 0 in which case they will be NULL). While X and Y are a node
+What we have here is the general case of left rotation ```rotateLeft(X) ``` on the node X, keep in mind that A, B and G denote a subtree of any heigh ( including 0 in which case they will be NULL). While X and Y are a node
 
 ![Before]({{ "assets/avl.jpg" | relative_url }})
 
