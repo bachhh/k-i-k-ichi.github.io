@@ -134,7 +134,7 @@ To sum it up:
 $$ b(Y) =
 \begin{cases}
 	B(Y) - 1,& \text{if } \quad b(X) \geqslant 0 \\
-	B(Y) + b(X) - 1,& \text{if } \quad b(x) < 0
+	B(Y) + b(X) - 1,& \text{if } \quad b(X) < 0
 \end{cases}
 $$
 

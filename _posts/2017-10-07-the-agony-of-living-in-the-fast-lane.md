@@ -6,7 +6,7 @@ categories: jekyll
 featured_image: /images/cover.jpg
 ---
 
-Long before I’ve realized, I have taken up reading, even though I was against it for the majority of my life. I gave more thought to writting as I progress, but was never sure what to write about.
+Long before I have realized, I took up reading. I used to deeply hate it. I gave more thought to writting as I progress, but was never sure what to write about.
 
 ## Why ?
 
@@ -16,7 +16,7 @@ Getting off the mount stupid, be open to critics.
 
 ## The agony of living in the fast lane
 
-I was always too eager for immediate results. It may push you (sometimes) for insane ammount of commitment. But in between the hype mountains lies deep valley of depression. I feel like writing should stretch things out, going slower means keeping fun in the house.
+Giving in to your hype is an amazing feeling. It gives you (sometimes) an insane ammount of energy. I love andrenaline rush, but what I definitely don't want is anxiety attacks afterwards. It is even worse as sometime the attack came before you have reached your goal. I feel like writing should stretch things out, going slower means keeping fun in the house.
 
 ## What will it be ?
 
