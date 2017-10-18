@@ -16,7 +16,7 @@ Getting off the mount stupid, be open to critics.
 
 ## The agony of living in the fast lane
 
-Giving in to your hype is an amazing feeling. It gives you (sometimes) an insane ammount of energy. I love andrenaline rush, but what I definitely don't want is anxiety attacks afterwards. It is even worse as sometime the attack came before you have reached your goal. I feel like writing should stretch things out, going slower means keeping fun in the house.
+Giving in to your hype is an amazing feeling. It gives you (sometimes) an insane ammount of energy. I love andrenaline rush, but what I definitely don't want is anxiety attacks afterwards. It is even worse as sometime the attack came before you have reached your goal. I feel like writing should stretch things out, going slower also means keeping fun in the house.
 
 ## What will it be ?
 
