@@ -2,7 +2,7 @@
 layout: post
 title: "The agony of living in the fast lane"
 date: 2017-10-07 12:00:00
-categories: jekyll
+categories: first-post
 featured_image: /images/cover.jpg
 ---
 
@@ -12,7 +12,7 @@ Long before I have realized, I took up reading. I used to deeply hate it. I gave
 
 Getting off the mount stupid, be open to critics.
 
-![My helpful screenshot]({{ "assets/mount_stupid.jpeg" | relative_url }})
+<center>![My helpful screenshot]({{ "assets/mount_stupid.jpeg" | relative_url }})</center>
 
 ## The agony of living in the fast lane
 
