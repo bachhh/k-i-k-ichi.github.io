@@ -1,4 +1,5 @@
-My blog
+To write is to better understand
+
 ============
 
 Built by theme Strange Case
