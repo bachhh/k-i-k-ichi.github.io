@@ -21,13 +21,26 @@ This guide also serve as a reference for when you accidentally sudo rm rf /
 (well not really, but I did managed to overwritten both my ubuntu partition
 and windows partition) just like what I did yesterday first thing in the morning OTL
 
-## Copying config and .dotfiles
+## Notes
+
+#Copying config and .dotfiles
 
 The prefered way is to symlink your config files, that way you can keep your file
 in your github folder withouth having to cp every time for backing up
 
 {% highlight bash %}
 ln -sf /ABSOLUTE/PATH/SOURCE /ABSOLUTE/PATH/DEST
+{% endhighlight %}
+
+# File owner and permission
+
+Most of the commands will somehow change the owner of the directory to root, this can
+cause problems especially with Vim's Vundle for managing plugins.
+It is not clear the cause, we just have to change them manually now
+
+{% highlight bash %}
+sudo chmod 764 -R $DIRECTORY
+sudo chown -R $USER: $DIRECTORY
 {% endhighlight %}
 
 ## Ricing your distro (Ubuntu)
