@@ -210,3 +210,18 @@ bundler install
 
 ## Vim plugins
 
+Mainly this section is for YCM, but I will update as things goes on
+
+# YouCompleteMe
+
+Install dependencies
+
+{% highlight bash %}
+sudo apt-get install build-essential cmake
+sudo apt-get install python-dev python3-dev
+cd ~/.vim/bundle/YouCompleteMe
+./install.py --clang-completer
+ln -sf $HOME/.dotfiles/.vim/.ycm_extra_conf.py $HOME/.vim/.ycm_extra_conf.py
+
+let g:ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
+{% endhighlight %}

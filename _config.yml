@@ -5,7 +5,7 @@ sidebar_image: images/lewis.jpg
 
 # Build settings
 markdown: kramdown
-highlighter: roue
+highlighter: rouge
 
 plugins:
 - jekyll-paginate
