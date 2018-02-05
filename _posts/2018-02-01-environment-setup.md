@@ -184,18 +184,6 @@ task calendar
 task list
 {% endhighlight %}
 
-## Not so essential
-
-{% highlight bash %}
-sudo apt-install screenfetch
-sudo apt-install taskwarrior
-sudo apt-install mpv
-sudo apt-install pinta
-sudo apt-install tranmission
-sudo apt-install okular
-sudo apt-install tree
-{% endhighlight %}
-
 ## Ruby
 
 {% highlight bash %}
@@ -225,3 +213,19 @@ ln -sf $HOME/.dotfiles/.vim/.ycm_extra_conf.py $HOME/.vim/.ycm_extra_conf.py
 
 let g:ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
 {% endhighlight %}
+
+## Not so essential
+
+{% highlight bash %}
+sudo apt-install screenfetch
+sudo apt-install taskwarrior
+sudo apt-install mpv
+sudo apt-install pinta
+sudo apt-install tranmission
+sudo apt-install okular
+sudo apt-install tree
+
+# java web start for topcoder aplet
+sudo apt-get install icedtea-netx
+{% endhighlight %}
+
