@@ -229,3 +229,6 @@ sudo apt-install tree
 sudo apt-get install icedtea-netx
 {% endhighlight %}
 
+## Non bash setup
+
+Disable gnome-terminal F1 hotkey
