@@ -224,6 +224,7 @@ sudo apt-install pinta
 sudo apt-install tranmission
 sudo apt-install okular
 sudo apt-install tree
+sudo apt-install anki
 
 # java web start for topcoder aplet
 sudo apt-get install icedtea-netx
