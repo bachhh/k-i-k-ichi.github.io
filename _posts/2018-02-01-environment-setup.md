@@ -230,6 +230,36 @@ sudo apt-install anki
 sudo apt-get install icedtea-netx
 {% endhighlight %}
 
-## Non bash setup
+## Trivia
 
 Disable gnome-terminal F1 hotkey
+Avoid touchpad when typing with
+
+{% highlight bash %}
+Option "TapButton2" "1"
+Option "TapButton1" "0"
+Option "TapButton3" "3"
+{% endhighlight %}
+
+Or you can adjust palm detect
+{% highlight bash %}
+Option "TapButton2" "1"
+Option "TapButton1" "0"
+Option "TapButton3" "3"
+{% endhighlight %}
+
+## i3 installation setup
+
+{% highlight bash%}
+# Install i3
+# Install i3-gaps
+# Install i3-blocks
+# Setup i3 config
+# Setup rofi
+# Setup theme
+sudo apt-get install lxappearance gtk-chtheme qt4-qtconfig
+sudo apt-get install acpi
+sudo apt-get install nm-applet
+
+{% endhighlight %}
+
