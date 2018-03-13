@@ -146,7 +146,7 @@ $$
 Here $$ p_1 $$ and $$ p_2 $$ are primes which appears in k+1 but not in Q.
 And Z is some other terms.
 
-We can make a new number $$ k_1 = \frac{(k+1){ p_2^{y} } = p_1^{x} Z $$
+We can make a new number $$ k_1 = \frac{(k+1)}{ p_2^{y} } = p_1^{x} Z $$
 
 Now $$ k_1 $$ is sure to be less than or equal to $$ k $$, and since
 $$ Q $$ is the LCM of all integer from 1 to $$ k $$, it must be divisible
