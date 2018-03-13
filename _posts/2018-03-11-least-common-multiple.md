@@ -3,8 +3,10 @@ layout: post
 title: "Least common multiple up to N"
 date: 2018-03-11 12:00:00
 categories: algorithms
-featured_image: /images/lewis.jpg
+featured_image: /images/pingpong.jpg
 ---
+
+Picture to the left is from Ping Pong the Animation, one of the few best ( if not the best) anime this decade has to offer
 
 Problem: Given a non-zero, positive integer N. Output the least common multiple of all the integers in range \[1..N\] ( or maybe output only the last digit)
 
