@@ -6,20 +6,7 @@ categories: programming
 featured_image: /images/cover.jpg
 ---
 
-Well if your have a full beards, thick frame glasses
-and your outfit consist mostly of earth tone colors.
-Chances are you are already using Macbook and have a full terminal setup
-that you would be so proud of, and showing off to your coworker.
-
-
-But if you are like me, student and not so privileged to own a Macbook,
-looking for the perfect middle ground between form (aesthetic) and function
-then this guide is for setting up your environment in a minimal way.
-
-
-This guide also serve as a reference for when you accidentally sudo rm rf /
-(well not really, but I did managed to overwritten both my ubuntu partition
-and windows partition) just like what I did yesterday first thing in the morning OTL
+Note to self
 
 ## Notes
 
